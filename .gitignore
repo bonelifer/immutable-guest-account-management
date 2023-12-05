@@ -1,0 +1,18 @@
+# Ignore backup files
+*.bak
+*.backup
+*.swp
+
+# Ignore generated files
+*.md.pdf
+*.pdf
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore temporary files
+tmp/*
+
+# Ignore config file
+config
