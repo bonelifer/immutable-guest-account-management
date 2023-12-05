@@ -42,7 +42,7 @@ Contributions are welcome. Feel free to fork this repository, make modifications
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](./issues).
+If you encounter any issues or have suggestions for improvements, please [open an issue](../../issues).
 
 ## Disclaimer
 
